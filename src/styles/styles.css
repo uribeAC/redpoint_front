@@ -1,3 +1,9 @@
+:root {
+  --light-color: #f9f7f4;
+  --dark-color: #333;
+  --title-font: "Outfit Variable", sans-serif;
+}
+
 *,
 ::after,
 ::before {
@@ -8,9 +14,9 @@ body {
   margin: 0;
 }
 
-.main-container {
-  height: 100vh;
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 0 20px;
+h1,
+h2,
+h3,
+p {
+  margin: 0;
 }
