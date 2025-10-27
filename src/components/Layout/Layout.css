@@ -1,0 +1,6 @@
+.main-container {
+  height: 100vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+}
