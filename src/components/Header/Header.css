@@ -1,0 +1,21 @@
+.main-header {
+  border-bottom: 1px solid var(--dark-color);
+  background-color: var(--light-color);
+  height: 4.5rem;
+}
+
+.main-header_container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 5px 15px;
+}
+
+.main-header_title {
+  font-family: var(--title-font);
+  font-size: 1.2rem;
+  color: var(--dark-color);
+}
